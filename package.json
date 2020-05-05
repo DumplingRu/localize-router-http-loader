@@ -10,7 +10,10 @@
     "build": "webpack",
     "commit": "npm run prepublish && npm test"
   },
-  "repository": "git+https://github.com/DumplingRu/localize-router-http-loader.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DumplingRu/localize-router-http-loader.git"
+  },
   "keywords": [
     "angular",
     "router",
