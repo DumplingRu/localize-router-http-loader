@@ -10,7 +10,7 @@
     "build": "webpack",
     "commit": "npm run prepublish && npm test"
   },
-  "repository": "git+https://github.com/Greentube/localize-router-http-loader.git",
+  "repository": "git+https://github.com/DumplingRu/localize-router-http-loader.git",
   "keywords": [
     "angular",
     "router",
@@ -22,12 +22,12 @@
   "author": "Miroslav Jonas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Greentube/localize-router-http-loader/issues"
+    "url": "https://github.com/DumplingRu/localize-router-http-loader/issues"
   },
   "main": "bundles/http-loader.umd.js",
   "module": "index.js",
   "typings": "index.d.ts",
-  "homepage": "https://github.com/Greentube/localize-router-http-loader",
+  "homepage": "https://github.com/DumplingRu/localize-router-http-loader",
   "peerDependencies": {
     "@angular/common": ">=9..0",
     "@angular/core": ">=9.0.0",
